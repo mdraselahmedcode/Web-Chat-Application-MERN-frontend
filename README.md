@@ -1,4 +1,11 @@
 
+
+
+![Web Chat App Screenshot](https://github.com/mdraselahmedcode/Web-Chat-Application-MERN-frontend/blob/master/chat_app.PNG?raw=true)
+
+
 ## 🎥 Project Overview Video
 
-[![Watch the video](https://img.youtube.com/vi/y9EduOPgxmQ/0.jpg)](https://www.youtube.com/watch?v=y9EduOPgxmQ)
+[![Watch the video](https://github.com/mdraselahmedcode/Web-Chat-Application-MERN-frontend/blob/master/chat_app.PNG?raw=true)](https://www.youtube.com/watch?v=y9EduOPgxmQ)
+
+
